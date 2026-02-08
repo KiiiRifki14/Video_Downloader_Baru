@@ -1,5 +1,4 @@
-yt-dlp
-instaloader
 streamlit
-streamlit-lottie
+yt-dlp>=2025.01.01
+instaloader
 requests
