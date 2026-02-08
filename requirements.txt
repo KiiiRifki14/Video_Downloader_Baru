@@ -1,0 +1,5 @@
+yt-dlp
+instaloader
+streamlit
+streamlit-lottie
+requests
